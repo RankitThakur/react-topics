@@ -1,0 +1,19 @@
+.navbar li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px ;
+}
+
+.navbar .nav-link-bar {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar .nav-link-bar:hover {
+    text-decoration: none;
+    color: rgb(224, 9, 9);
+}
+.navbar li .active {
+    text-decoration: none;
+    color: rgb(41, 9, 224);
+}

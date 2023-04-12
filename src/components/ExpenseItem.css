@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+.table{
+    border: 1px solid black;
+    margin-left: 3px;
+    background-color: antiquewhite;
+}
+
+.table tr th, tr td{
+    border: 1px solid black;
+    margin-left: 3px;
+    padding: 3px;
+    text-transform: capitalize;
+}
